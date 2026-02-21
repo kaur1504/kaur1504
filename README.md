@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shubhneet Kaur</h1>
-<h3 align="center">🚀 Data Science Enthusiast | Machine Learning Developer | Full Stack Learner | DSA Practitioner</h3> <p align="center"> <a href="https://github.com/kaur1504"> <img src="https://komarev.com/ghpvc/?username=kaur1504&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" /> </a> </p>
+<h3 align="center">🚀 Data Science Enthusiast | Machine Learning Developer | Full Stack Learner | DSA Practitioner</h3> 
 💫 About Me
 🎓 B.Tech CSE Student at GLA University (CGPA: 8.34/10)
 📊 Passionate About Data Science, Machine Learning & Analytics
