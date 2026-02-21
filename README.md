@@ -1,65 +1,71 @@
-Hi there, I'm Shubhneet Kaur! 👋
-B.Tech. CSE Student | Aspiring Data Scientist | Machine Learning Enthusiast 
-+2
+<h1 align="center">Hi 👋, I'm Shubhneet Kaur</h1>
+<h3 align="center">🚀 Data Science Enthusiast | Machine Learning Developer | Full Stack Learner | DSA Practitioner</h3> <p align="center"> <a href="https://github.com/kaur1504"> <img src="https://komarev.com/ghpvc/?username=kaur1504&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" /> </a> </p>
+💫 About Me
+🎓 B.Tech CSE Student at GLA University (CGPA: 8.34/10)
+📊 Passionate About Data Science, Machine Learning & Analytics
+🧠 Strong Foundation in Python, SQL & Data Visualization
+🏆 Gold Medalist – Faster Than Calculator (Brain-O-Brain)
+🎯 Currently Preparing For Data Science & Product-Based Roles
 
-I am a detail-oriented and analytical student at GLA University with a strong foundation in Python, SQL, and data visualization. I specialize in developing Machine Learning models to analyze complex datasets and derive insights that support intelligent decision-making.
-+2
+I love transforming raw data into meaningful insights and building intelligent systems that support data-driven decision making.
 
-🛠️ Technical Toolkit
-
-Languages: Python (Pandas, NumPy, Seaborn, Matplotlib), Java (Data Structures and Algorithms), and SQL (Joins, Aggregations).
-+1
-
-
-Data Visualization: Tableau, Power BI, and MS Excel (Pivot, Power Query, Dashboards).
-
-
-Technical Skills: Machine Learning Models, Statistics, and Probability.
+🛠 Tech Stack & Tools
+👩‍💻 Languages
 
 
-Certifications: Google Data Analytics (Coursera) and CCNA Python Essentials.
 
-🚀 Featured Projects
-
-E-commerce Demand Forecasting System 
+📊 Data & Analytics
 
 
-Tech: Python + Machine Learning (ARIMA, LSTM).
 
 
-Impact: Built a time-series model to predict sales trends and translated historical data into automated alerts and visualizations for enterprise stakeholders.
 
 
-MotoGP Performance Analytics 
+💻 Development
 
 
-Context: Developed during the Burnout Datathon.
 
 
-Impact: Conducted data cleaning and regression modeling to predict riders' average lap times and visualize performance metrics.
 
 
-Mental Health Analysis Dashboard 
-+1
+📌 Featured Projects
+📈 E-Commerce Demand Forecasting System
+🔹 Built ARIMA & LSTM time-series models
+🔹 Generated automated sales trend predictions
+🔹 Created visual insights for enterprise-level decisions
+🔹 Tech: Python, Pandas, Machine Learning
 
+🏍 MotoGP Performance Analytics – Burnout Datathon
+🔹 Cleaned and modeled racing data
+🔹 Applied regression models for lap time prediction
+🔹 Visualized rider performance metrics
+🔹 Demonstrates applied statistical modeling
 
-Tech: SQL + Data Analytics + Tableau.
-+1
+🧠 Mental Health Analysis Dashboard
+🔹 Data cleaning & transformation using SQL
+🔹 Built interactive Tableau dashboards
+🔹 Analyzed correlations between academic stress & mental health
+🔹 Provided insight-driven recommendations
 
+📜 Certifications
+✔ Google Data Analytics – Coursera
+✔ CCNA Python Essentials
+✔ Deloitte Data Analytics Job Simulation
+✔ Tata Forage Data Visualization Simulation
+✔ British Airways Data Science Foundation
 
-Impact: Cleaned datasets to analyze trends in academic stress and created an interactive dashboard to visualize correlations and provide policy recommendations.
+🏆 Achievements
+🥇 Gold Medal – Brain-O-Brain National Level
+🥇 1st Prize – Faster Than Calculator Competition
+💻 Advanced Competitive Programming – W3 Grads
 
-📈 Professional Experience & Training
+📊 GitHub Stats
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=kaur1504&show_icons=true&theme=tokyonight" /> </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=kaur1504&theme=tokyonight" /> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaur1504&layout=compact&theme=tokyonight" /> </p>
+📫 Connect With Me
+📧 Email: kaurshubhneet15@gmail.com
+🔗 LinkedIn: https://www.linkedin.com/in/shubhneet-kaur-961aa0265/
+💻 GitHub: https://github.com/kaur1504
 
-Advanced Competitive Programming: Gained practical experience in algorithm design and problem-solving with W3 Grads.
-+1
+✨ Career Goal
+To build intelligent systems that transform complex datasets into strategic insights and create scalable solutions that make a real-world impact.
 
-
-Industry Simulations: Completed job simulations in Data Analysis (Deloitte), Data Visualization (Tata Forage), and Data Science Foundations (British Airways).
-
-📫 Connect with Me
-LinkedIn: Shubhneet Kaur
-
-GitHub: kaur1504
-
-Email: kaurshubhneet15@gmail.com
