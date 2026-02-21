@@ -1,57 +1,65 @@
-## Hi there 👋 I'm Shubhneet Kaur!
-🚀 Gaining insights from data is what excites me the most!
+Hi there, I'm Shubhneet Kaur! 👋
+B.Tech. CSE Student | Aspiring Data Scientist | Machine Learning Enthusiast 
++2
+
+I am a detail-oriented and analytical student at GLA University with a strong foundation in Python, SQL, and data visualization. I specialize in developing Machine Learning models to analyze complex datasets and derive insights that support intelligent decision-making.
++2
+
+🛠️ Technical Toolkit
+
+Languages: Python (Pandas, NumPy, Seaborn, Matplotlib), Java (Data Structures and Algorithms), and SQL (Joins, Aggregations).
++1
 
 
-## 🔹 About Me  
-💡 Final Year B.Tech CSE Student | Aspiring **Data Analyst** | Exploring Career as Data Scientist | 
-🎯 Passionate about transforming raw datasets into meaningful insights  
-🌱 Currently exploring **SQL | Python | Power BI | Tableau | Machine Learning**  
-📌 Looking for **Internship / Full-time roles** in Data Science and Analytics
+Data Visualization: Tableau, Power BI, and MS Excel (Pivot, Power Query, Dashboards).
 
 
-## 🔹 Skills & Tools  
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
-</p>
-
-## 🔹 Certifications  
-✅ Google Data Analytics Professional Certificate  
-✅ Data Analysis with R programming  
-✅ Summer Analytics 2025 – IIT Guwahati 
-✅ Participated in Moto-gp Burnout Data Hackathon and won 20th rank at Kaggle
-
-## 🔹 Connect with Me  
-<p align="center">
-  <a href="https://www.linkedin.com/in/shubhneet-kaur-961aa0265/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:yourmail@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://github.com/kaur1504">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</
-
-⭐ *Always curious to uncover insights hidden in data!*  
+Technical Skills: Machine Learning Models, Statistics, and Probability.
 
 
-<!--
-**kaur1504/kaur1504** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Certifications: Google Data Analytics (Coursera) and CCNA Python Essentials.
 
-Here are some ideas to get you started:
+🚀 Featured Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+E-commerce Demand Forecasting System 
+
+
+Tech: Python + Machine Learning (ARIMA, LSTM).
+
+
+Impact: Built a time-series model to predict sales trends and translated historical data into automated alerts and visualizations for enterprise stakeholders.
+
+
+MotoGP Performance Analytics 
+
+
+Context: Developed during the Burnout Datathon.
+
+
+Impact: Conducted data cleaning and regression modeling to predict riders' average lap times and visualize performance metrics.
+
+
+Mental Health Analysis Dashboard 
++1
+
+
+Tech: SQL + Data Analytics + Tableau.
++1
+
+
+Impact: Cleaned datasets to analyze trends in academic stress and created an interactive dashboard to visualize correlations and provide policy recommendations.
+
+📈 Professional Experience & Training
+
+Advanced Competitive Programming: Gained practical experience in algorithm design and problem-solving with W3 Grads.
++1
+
+
+Industry Simulations: Completed job simulations in Data Analysis (Deloitte), Data Visualization (Tata Forage), and Data Science Foundations (British Airways).
+
+📫 Connect with Me
+LinkedIn: Shubhneet Kaur
+
+GitHub: kaur1504
+
+Email: kaurshubhneet15@gmail.com
